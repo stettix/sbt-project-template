@@ -1,6 +1,6 @@
 val buildSettings = Seq(
   organization := "net.janvsmachine",
-  name := "sbt-template",
+  name := "sbt-project-template",
   version := "0.0.1",
   scalaVersion  := "2.11.7",
   scalacOptions := Seq("-unchecked", "-deprecation", "-feature", "-encoding", "utf8", "-target:jvm-1.8", "-Xfatal-warnings", "-Xfuture")
